@@ -1,0 +1,15 @@
+N:\Downloads\Array_Assignment\Array_Assignment\bin\Debug\net6.0\Array_Assignment.exe
+N:\Downloads\Array_Assignment\Array_Assignment\bin\Debug\net6.0\Array_Assignment.deps.json
+N:\Downloads\Array_Assignment\Array_Assignment\bin\Debug\net6.0\Array_Assignment.runtimeconfig.json
+N:\Downloads\Array_Assignment\Array_Assignment\bin\Debug\net6.0\Array_Assignment.dll
+N:\Downloads\Array_Assignment\Array_Assignment\bin\Debug\net6.0\ref\Array_Assignment.dll
+N:\Downloads\Array_Assignment\Array_Assignment\bin\Debug\net6.0\Array_Assignment.pdb
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\Array_Assignment.csproj.AssemblyReference.cache
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\Array_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\Array_Assignment.AssemblyInfoInputs.cache
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\Array_Assignment.AssemblyInfo.cs
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\Array_Assignment.csproj.CoreCompileInputs.cache
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\Array_Assignment.dll
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\ref\Array_Assignment.dll
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\Array_Assignment.pdb
+N:\Downloads\Array_Assignment\Array_Assignment\obj\Debug\net6.0\Array_Assignment.genruntimeconfig.cache

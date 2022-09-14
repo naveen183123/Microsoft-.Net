@@ -1,0 +1,15 @@
+N:\Downloads\Linq1\Linq1\bin\Debug\net6.0\Linq1.exe
+N:\Downloads\Linq1\Linq1\bin\Debug\net6.0\Linq1.deps.json
+N:\Downloads\Linq1\Linq1\bin\Debug\net6.0\Linq1.runtimeconfig.json
+N:\Downloads\Linq1\Linq1\bin\Debug\net6.0\Linq1.dll
+N:\Downloads\Linq1\Linq1\bin\Debug\net6.0\ref\Linq1.dll
+N:\Downloads\Linq1\Linq1\bin\Debug\net6.0\Linq1.pdb
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\Linq1.csproj.AssemblyReference.cache
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\Linq1.AssemblyInfoInputs.cache
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\Linq1.AssemblyInfo.cs
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\Linq1.csproj.CoreCompileInputs.cache
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\Linq1.dll
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\ref\Linq1.dll
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\Linq1.pdb
+N:\Downloads\Linq1\Linq1\obj\Debug\net6.0\Linq1.genruntimeconfig.cache

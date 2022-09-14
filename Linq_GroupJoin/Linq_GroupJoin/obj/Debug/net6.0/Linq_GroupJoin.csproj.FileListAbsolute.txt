@@ -1,0 +1,15 @@
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\bin\Debug\net6.0\Linq_GroupJoin.exe
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\bin\Debug\net6.0\Linq_GroupJoin.deps.json
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\bin\Debug\net6.0\Linq_GroupJoin.runtimeconfig.json
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\bin\Debug\net6.0\Linq_GroupJoin.dll
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\bin\Debug\net6.0\ref\Linq_GroupJoin.dll
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\bin\Debug\net6.0\Linq_GroupJoin.pdb
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\Linq_GroupJoin.csproj.AssemblyReference.cache
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\Linq_GroupJoin.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\Linq_GroupJoin.AssemblyInfoInputs.cache
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\Linq_GroupJoin.AssemblyInfo.cs
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\Linq_GroupJoin.csproj.CoreCompileInputs.cache
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\Linq_GroupJoin.dll
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\ref\Linq_GroupJoin.dll
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\Linq_GroupJoin.pdb
+N:\Downloads\Linq_GroupJoin\Linq_GroupJoin\obj\Debug\net6.0\Linq_GroupJoin.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\HP USER\Downloads\Program\Program\bin\Debug\net6.0\Program.exe
+C:\Users\HP USER\Downloads\Program\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\HP USER\Downloads\Program\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\HP USER\Downloads\Program\Program\bin\Debug\net6.0\Program.dll
+C:\Users\HP USER\Downloads\Program\Program\bin\Debug\net6.0\ref\Program.dll
+C:\Users\HP USER\Downloads\Program\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\Program.dll
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\ref\Program.dll
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\HP USER\Downloads\Program\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+N:\Downloads\Program\Program\bin\Debug\net6.0\Program.exe
+N:\Downloads\Program\Program\bin\Debug\net6.0\Program.deps.json
+N:\Downloads\Program\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+N:\Downloads\Program\Program\bin\Debug\net6.0\Program.dll
+N:\Downloads\Program\Program\bin\Debug\net6.0\ref\Program.dll
+N:\Downloads\Program\Program\bin\Debug\net6.0\Program.pdb
+N:\Downloads\Program\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+N:\Downloads\Program\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Program\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+N:\Downloads\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+N:\Downloads\Program\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+N:\Downloads\Program\Program\obj\Debug\net6.0\Program.dll
+N:\Downloads\Program\Program\obj\Debug\net6.0\ref\Program.dll
+N:\Downloads\Program\Program\obj\Debug\net6.0\Program.pdb
+N:\Downloads\Program\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache

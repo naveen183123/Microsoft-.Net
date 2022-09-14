@@ -1,0 +1,15 @@
+N:\Downloads\Task3\Task3\bin\Debug\net6.0\Task3.exe
+N:\Downloads\Task3\Task3\bin\Debug\net6.0\Task3.deps.json
+N:\Downloads\Task3\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+N:\Downloads\Task3\Task3\bin\Debug\net6.0\Task3.dll
+N:\Downloads\Task3\Task3\bin\Debug\net6.0\ref\Task3.dll
+N:\Downloads\Task3\Task3\bin\Debug\net6.0\Task3.pdb
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\Task3.dll
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\ref\Task3.dll
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\Task3.pdb
+N:\Downloads\Task3\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+N:\Downloads\LinqExample\LinqExample\bin\Debug\net6.0\LinqExample.exe
+N:\Downloads\LinqExample\LinqExample\bin\Debug\net6.0\LinqExample.deps.json
+N:\Downloads\LinqExample\LinqExample\bin\Debug\net6.0\LinqExample.runtimeconfig.json
+N:\Downloads\LinqExample\LinqExample\bin\Debug\net6.0\LinqExample.dll
+N:\Downloads\LinqExample\LinqExample\bin\Debug\net6.0\ref\LinqExample.dll
+N:\Downloads\LinqExample\LinqExample\bin\Debug\net6.0\LinqExample.pdb
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\LinqExample.csproj.AssemblyReference.cache
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfoInputs.cache
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfo.cs
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\LinqExample.csproj.CoreCompileInputs.cache
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\LinqExample.dll
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\ref\LinqExample.dll
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\LinqExample.pdb
+N:\Downloads\LinqExample\LinqExample\obj\Debug\net6.0\LinqExample.genruntimeconfig.cache

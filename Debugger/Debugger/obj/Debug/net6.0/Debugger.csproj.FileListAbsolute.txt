@@ -1,0 +1,15 @@
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\bin\Debug\net6.0\Debugger.exe
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\bin\Debug\net6.0\Debugger.deps.json
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\bin\Debug\net6.0\Debugger.runtimeconfig.json
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\bin\Debug\net6.0\Debugger.dll
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\bin\Debug\net6.0\Debugger.pdb
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\Debugger.csproj.AssemblyReference.cache
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\Debugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\Debugger.AssemblyInfoInputs.cache
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\Debugger.AssemblyInfo.cs
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\Debugger.csproj.CoreCompileInputs.cache
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\Debugger.dll
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\refint\Debugger.dll
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\Debugger.pdb
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\Debugger.genruntimeconfig.cache
+C:\Users\shannu\Downloads\Downloads\Debugger\Debugger\obj\Debug\net6.0\ref\Debugger.dll

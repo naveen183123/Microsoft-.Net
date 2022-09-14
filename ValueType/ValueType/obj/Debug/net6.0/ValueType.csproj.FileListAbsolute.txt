@@ -1,0 +1,14 @@
+N:\Downloads\ValueType\ValueType\bin\Debug\net6.0\ValueType.exe
+N:\Downloads\ValueType\ValueType\bin\Debug\net6.0\ValueType.deps.json
+N:\Downloads\ValueType\ValueType\bin\Debug\net6.0\ValueType.runtimeconfig.json
+N:\Downloads\ValueType\ValueType\bin\Debug\net6.0\ValueType.dll
+N:\Downloads\ValueType\ValueType\bin\Debug\net6.0\ref\ValueType.dll
+N:\Downloads\ValueType\ValueType\bin\Debug\net6.0\ValueType.pdb
+N:\Downloads\ValueType\ValueType\obj\Debug\net6.0\ValueType.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\ValueType\ValueType\obj\Debug\net6.0\ValueType.AssemblyInfoInputs.cache
+N:\Downloads\ValueType\ValueType\obj\Debug\net6.0\ValueType.AssemblyInfo.cs
+N:\Downloads\ValueType\ValueType\obj\Debug\net6.0\ValueType.csproj.CoreCompileInputs.cache
+N:\Downloads\ValueType\ValueType\obj\Debug\net6.0\ValueType.dll
+N:\Downloads\ValueType\ValueType\obj\Debug\net6.0\ref\ValueType.dll
+N:\Downloads\ValueType\ValueType\obj\Debug\net6.0\ValueType.pdb
+N:\Downloads\ValueType\ValueType\obj\Debug\net6.0\ValueType.genruntimeconfig.cache

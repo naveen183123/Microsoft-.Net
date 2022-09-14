@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07c82d67-80a6-4a35-9cfd-c138d80cfd41": {
+      "ProjectGuid": "07c82d67-80a6-4a35-9cfd-c138d80cfd41",
+      "DisplayName": "Linq_LeftJoin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+N:\Downloads\Structure\Structure\bin\Debug\net6.0\Structure.exe
+N:\Downloads\Structure\Structure\bin\Debug\net6.0\Structure.deps.json
+N:\Downloads\Structure\Structure\bin\Debug\net6.0\Structure.runtimeconfig.json
+N:\Downloads\Structure\Structure\bin\Debug\net6.0\Structure.dll
+N:\Downloads\Structure\Structure\bin\Debug\net6.0\ref\Structure.dll
+N:\Downloads\Structure\Structure\bin\Debug\net6.0\Structure.pdb
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\Structure.csproj.AssemblyReference.cache
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\Structure.AssemblyInfoInputs.cache
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\Structure.AssemblyInfo.cs
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\Structure.csproj.CoreCompileInputs.cache
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\Structure.dll
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\ref\Structure.dll
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\Structure.pdb
+N:\Downloads\Structure\Structure\obj\Debug\net6.0\Structure.genruntimeconfig.cache

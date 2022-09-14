@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaCOCPtQ7rLgN5XmwGR1Gb9FLafN2wmNAm1HSfm82XkoqJ9iI0bZd46qgkqpzGz12mA/lQV0Kz/Kk57i/fpHvQ==",
+  "success": true,
+  "projectFilePath": "N:\\Downloads\\Task4\\Task4\\Task4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP USER\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

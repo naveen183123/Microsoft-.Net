@@ -1,0 +1,15 @@
+N:\Downloads\Delegates\Delegates\bin\Debug\net6.0\Delegates.exe
+N:\Downloads\Delegates\Delegates\bin\Debug\net6.0\Delegates.deps.json
+N:\Downloads\Delegates\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+N:\Downloads\Delegates\Delegates\bin\Debug\net6.0\Delegates.dll
+N:\Downloads\Delegates\Delegates\bin\Debug\net6.0\ref\Delegates.dll
+N:\Downloads\Delegates\Delegates\bin\Debug\net6.0\Delegates.pdb
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\Delegates.dll
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\ref\Delegates.dll
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\Delegates.pdb
+N:\Downloads\Delegates\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache

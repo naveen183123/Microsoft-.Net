@@ -1,0 +1,15 @@
+N:\Downloads\ReferenceType\ReferenceType\bin\Debug\net6.0\ReferenceType.exe
+N:\Downloads\ReferenceType\ReferenceType\bin\Debug\net6.0\ReferenceType.deps.json
+N:\Downloads\ReferenceType\ReferenceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+N:\Downloads\ReferenceType\ReferenceType\bin\Debug\net6.0\ReferenceType.dll
+N:\Downloads\ReferenceType\ReferenceType\bin\Debug\net6.0\ref\ReferenceType.dll
+N:\Downloads\ReferenceType\ReferenceType\bin\Debug\net6.0\ReferenceType.pdb
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.AssemblyReference.cache
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ReferenceType.dll
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ref\ReferenceType.dll
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ReferenceType.pdb
+N:\Downloads\ReferenceType\ReferenceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache

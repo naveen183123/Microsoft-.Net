@@ -1,0 +1,15 @@
+N:\Downloads\SampleList\SampleList\bin\Debug\net6.0\SampleList.exe
+N:\Downloads\SampleList\SampleList\bin\Debug\net6.0\SampleList.deps.json
+N:\Downloads\SampleList\SampleList\bin\Debug\net6.0\SampleList.runtimeconfig.json
+N:\Downloads\SampleList\SampleList\bin\Debug\net6.0\SampleList.dll
+N:\Downloads\SampleList\SampleList\bin\Debug\net6.0\ref\SampleList.dll
+N:\Downloads\SampleList\SampleList\bin\Debug\net6.0\SampleList.pdb
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\SampleList.csproj.AssemblyReference.cache
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\SampleList.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\SampleList.AssemblyInfoInputs.cache
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\SampleList.AssemblyInfo.cs
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\SampleList.csproj.CoreCompileInputs.cache
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\SampleList.dll
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\ref\SampleList.dll
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\SampleList.pdb
+N:\Downloads\SampleList\SampleList\obj\Debug\net6.0\SampleList.genruntimeconfig.cache

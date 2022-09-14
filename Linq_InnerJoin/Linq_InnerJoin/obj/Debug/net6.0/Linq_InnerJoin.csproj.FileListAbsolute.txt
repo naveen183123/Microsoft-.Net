@@ -1,0 +1,15 @@
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\bin\Debug\net6.0\Linq_InnerJoin.exe
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\bin\Debug\net6.0\Linq_InnerJoin.deps.json
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\bin\Debug\net6.0\Linq_InnerJoin.runtimeconfig.json
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\bin\Debug\net6.0\Linq_InnerJoin.dll
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\bin\Debug\net6.0\ref\Linq_InnerJoin.dll
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\bin\Debug\net6.0\Linq_InnerJoin.pdb
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\Linq_InnerJoin.csproj.AssemblyReference.cache
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\Linq_InnerJoin.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\Linq_InnerJoin.AssemblyInfoInputs.cache
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\Linq_InnerJoin.AssemblyInfo.cs
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\Linq_InnerJoin.csproj.CoreCompileInputs.cache
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\Linq_InnerJoin.dll
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\ref\Linq_InnerJoin.dll
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\Linq_InnerJoin.pdb
+N:\Downloads\Linq_InnerJoin\Linq_InnerJoin\obj\Debug\net6.0\Linq_InnerJoin.genruntimeconfig.cache

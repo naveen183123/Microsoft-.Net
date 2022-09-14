@@ -1,0 +1,15 @@
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\Abstraction_OOPS.csproj.AssemblyReference.cache
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\Abstraction_OOPS.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\Abstraction_OOPS.AssemblyInfoInputs.cache
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\Abstraction_OOPS.AssemblyInfo.cs
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\Abstraction_OOPS.csproj.CoreCompileInputs.cache
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\bin\Debug\net6.0\Abstraction_OOPS.exe
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\bin\Debug\net6.0\Abstraction_OOPS.deps.json
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\bin\Debug\net6.0\Abstraction_OOPS.runtimeconfig.json
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\bin\Debug\net6.0\Abstraction_OOPS.dll
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\bin\Debug\net6.0\ref\Abstraction_OOPS.dll
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\bin\Debug\net6.0\Abstraction_OOPS.pdb
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\Abstraction_OOPS.dll
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\ref\Abstraction_OOPS.dll
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\Abstraction_OOPS.pdb
+N:\Downloads\Abstraction_OOPS\Abstraction_OOPS\obj\Debug\net6.0\Abstraction_OOPS.genruntimeconfig.cache

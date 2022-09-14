@@ -1,0 +1,15 @@
+N:\Downloads\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.exe
+N:\Downloads\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.deps.json
+N:\Downloads\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.runtimeconfig.json
+N:\Downloads\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.dll
+N:\Downloads\MultiDelegates\MultiDelegates\bin\Debug\net6.0\ref\MultiDelegates.dll
+N:\Downloads\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.pdb
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.csproj.AssemblyReference.cache
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.AssemblyInfoInputs.cache
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.AssemblyInfo.cs
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.csproj.CoreCompileInputs.cache
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.dll
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\ref\MultiDelegates.dll
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.pdb
+N:\Downloads\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.genruntimeconfig.cache

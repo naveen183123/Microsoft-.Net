@@ -1,0 +1,15 @@
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ArrayN.csproj.AssemblyReference.cache
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ArrayN.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ArrayN.AssemblyInfoInputs.cache
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ArrayN.AssemblyInfo.cs
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ArrayN.csproj.CoreCompileInputs.cache
+N:\Downloads\ArrayN\ArrayN\bin\Debug\net6.0\ArrayN.exe
+N:\Downloads\ArrayN\ArrayN\bin\Debug\net6.0\ArrayN.deps.json
+N:\Downloads\ArrayN\ArrayN\bin\Debug\net6.0\ArrayN.runtimeconfig.json
+N:\Downloads\ArrayN\ArrayN\bin\Debug\net6.0\ArrayN.dll
+N:\Downloads\ArrayN\ArrayN\bin\Debug\net6.0\ref\ArrayN.dll
+N:\Downloads\ArrayN\ArrayN\bin\Debug\net6.0\ArrayN.pdb
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ArrayN.dll
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ref\ArrayN.dll
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ArrayN.pdb
+N:\Downloads\ArrayN\ArrayN\obj\Debug\net6.0\ArrayN.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+	<link rel="stylesheet" type="text/css" href="StyleSheet.css" />
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    <center><h1>Login Page</h1></center>
+	<form>
+		<div class="Login">
+			<label>UserName</label>
+			<input type="text" name="UserName" placeholder="Enter Your UserName" required formmethod="post">
+			<label>PassWord</label>
+			<input type="password" name="PassWord" placeholder="Enter Your PassWord" required formmethod="post">
+			<button type="submit">Login</button>
+			<a href="#">Forget Password</a>
+		</div>
+	</form>
+</body>
+</html>

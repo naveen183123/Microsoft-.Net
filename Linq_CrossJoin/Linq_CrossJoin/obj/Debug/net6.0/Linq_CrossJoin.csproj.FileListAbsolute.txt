@@ -1,0 +1,15 @@
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\bin\Debug\net6.0\Linq_CrossJoin.exe
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\bin\Debug\net6.0\Linq_CrossJoin.deps.json
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\bin\Debug\net6.0\Linq_CrossJoin.runtimeconfig.json
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\bin\Debug\net6.0\Linq_CrossJoin.dll
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\bin\Debug\net6.0\ref\Linq_CrossJoin.dll
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\bin\Debug\net6.0\Linq_CrossJoin.pdb
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\Linq_CrossJoin.csproj.AssemblyReference.cache
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\Linq_CrossJoin.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\Linq_CrossJoin.AssemblyInfoInputs.cache
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\Linq_CrossJoin.AssemblyInfo.cs
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\Linq_CrossJoin.csproj.CoreCompileInputs.cache
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\Linq_CrossJoin.dll
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\ref\Linq_CrossJoin.dll
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\Linq_CrossJoin.pdb
+N:\Downloads\Linq_CrossJoin\Linq_CrossJoin\obj\Debug\net6.0\Linq_CrossJoin.genruntimeconfig.cache

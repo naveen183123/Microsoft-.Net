@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "es5CuLl7SehMIgIlbCZBXYpjNXMS38XPnN7Ui7iZRmM=",
+  "Source": "RestApi_SP",
+  "BasePath": "_content/RestApi_SP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
